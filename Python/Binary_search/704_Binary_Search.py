@@ -21,12 +21,11 @@ class Solution:
         while left <= right:
             # we will use '//' rather than '/' because we want to get the
             # floored value
-            mid = (left + right) // 2 
+            mid = (left + right) // 2
             if nums[mid] == target:
                 return mid
             elif nums[mid] < target:
-                left += 1
+                left = mid + 1
             else:
-                right -= 1
-        return 
-        
+                right = mid - 1
+        return
