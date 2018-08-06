@@ -1,3 +1,4 @@
+
 this repository is used to store my code on
 [leetcode](http://www.leetcode.com) with Programming Language JAVA and Python.
 First time I use JAVA to go over first 100 problems, and next problems I will
