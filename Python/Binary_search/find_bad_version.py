@@ -1,3 +1,11 @@
+#! /Users/xiaotongli/anaconda3/bin/python
+# -*- coding: utf-8 -*-
+# @Time    : 9/28/18 10:57 PM
+# @Author  : Xiaotong Li
+# @School  : University of California, Santa Cruz
+# @FileName: autocomplete_System.py
+# @Software: PyCharm
+
 # The isBadVersion API is already defined for you.
 # @param version, an integer
 # @return a bool

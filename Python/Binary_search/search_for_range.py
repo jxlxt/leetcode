@@ -1,5 +1,13 @@
+#! /Users/xiaotongli/anaconda3/bin/python
+# -*- coding: utf-8 -*-
+# @Time    : 9/28/18 10:57 PM
+# @Author  : Xiaotong Li
+# @School  : University of California, Santa Cruz
+# @FileName: autocomplete_System.py
+# @Software: PyCharm
+
 class Solution:
-    def findMin(self, nums):
+    def findMin(self, nums, target):
         """
         :type nums: List[int]
         :rtype: int
@@ -12,7 +20,7 @@ class Solution:
         left, right = 0, len(nums) - 1
 
         while left < right:
-            mid = left + (right - left_ // 2
+            mid = left + (right - left) // 2
             if nums[mid] < target:
                 left = mid + 1
             else:

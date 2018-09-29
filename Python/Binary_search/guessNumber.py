@@ -1,3 +1,12 @@
+#! /Users/xiaotongli/anaconda3/bin/python
+# -*- coding: utf-8 -*-
+# @Time    : 9/28/18 10:57 PM
+# @Author  : Xiaotong Li
+# @School  : University of California, Santa Cruz
+# @FileName: autocomplete_System.py
+# @Software: PyCharm
+
+
 # The guess API is already defined for you.
 # @param num, your guess
 # @return -1 if my number is lower, 1 if my number is higher, otherwise return 0

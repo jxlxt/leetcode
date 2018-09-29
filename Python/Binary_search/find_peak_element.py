@@ -1,3 +1,11 @@
+#! /Users/xiaotongli/anaconda3/bin/python
+# -*- coding: utf-8 -*-
+# @Time    : 9/28/18 10:57 PM
+# @Author  : Xiaotong Li
+# @School  : University of California, Santa Cruz
+# @FileName: autocomplete_System.py
+# @Software: PyCharm
+
 class Solution:
     def findPeakElement(self, nums):
         """
@@ -8,7 +16,7 @@ class Solution:
             return 0
 
         left, right = 0, len(nums) - 1
-        whiel left < right:
+        while left < right:
             mid = left + (right - left) // 2
             if nums[mid] > nums[mid + 1] and nums[mid] > nums[mid - 1]:
                 return mid
