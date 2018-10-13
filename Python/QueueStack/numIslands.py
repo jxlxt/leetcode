@@ -6,8 +6,6 @@
 # @FileName: numIslands.py
 # @Software: PyCharm
 
-from collections import deque
-
 class Solution(object):
     def isValid(self, r, c, grid):
         row, column = len(grid), len(grid[0])

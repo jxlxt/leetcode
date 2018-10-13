@@ -6,8 +6,6 @@
 # @FileName: numSquares.py
 # @Software: PyCharm
 
-from math import sqrt
-
 
 class Solution(object):
     _dp = [0]

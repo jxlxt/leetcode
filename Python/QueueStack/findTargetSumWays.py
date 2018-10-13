@@ -7,7 +7,6 @@
 # @Software: PyCharm
 
 
-import collections
 class Solution:
     def findTargetSumWays(self, nums, S):
         """

@@ -7,7 +7,7 @@ class MovingAverage(object):
         Initialize your data structure here.
         :type size: int
         """
-        self.queque =deque(maxlen=size)
+        self.queque = deque(maxlen=size)
         self.size = size
         self.curSum = 0
 
@@ -21,4 +21,3 @@ class MovingAverage(object):
             self.curSum -= self.queue.popleft()
         self.queue.append(val)
         return float(self.curSum) / len(self.queue)
-        
