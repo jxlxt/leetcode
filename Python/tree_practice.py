@@ -3,7 +3,7 @@
 # @Time    : 10/11/18 11:43 AM
 # @Author  : Xiaotong Li
 # @School  : University of California, Santa Cruz
-# @FileName: test.py
+# @FileName: tree_practice.py
 # @Software: PyCharm
 
 class Node:
