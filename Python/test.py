@@ -58,40 +58,48 @@ def quick_sort(alist, first, last):
     quick_sort(alist, low+1, last)
 
 
+def almost_palindromes(str):
+    length = len(str)
+    a, b = 0, length - 1
+    total = 0
+
+    while (a < length):
+        if (str[a] != str[b]):
+            total += 1
+        a += 1
+        b -= 1
+
+    return total
+
 class Solution:
-    def minimumDeleteSum(self, s1, s2):
+    def multiply(self, num1, num2):
         """
-        :type s1: str
-        :type s2: str
-        :rtype: int
+        :type num1: str
+        :type num2: str
+        :rtype: str
         """
-        l1, l2 = len(s1), len(s2)
-        # initailzation
-        dp = [[0 for _ in range(l2+1)] for _ in range(l1+1)]
-        for i in range(1, l1+1):
-            dp[i][0] = dp[i-1][0] + ord(s1[i-1])
-        for j in range(1, l2+1):
-            dp[0][j] = dp[0][j-1] + ord(s2[j-1])
-        for i in range(1, l1+1):
-            for j in range(1, l2+1):
-                if s1[i-1] == s2[j-1]:
-                    dp[i][j] = dp[i-1][j-1]
-                else:
-                    dp[i][j] = min(dp[i-1][j]+ord(s1[i-1]), dp[i][j-1]+ord(s2[j-1]))
-        return dp[l1][l2]
-
-
-class binheap:
-    def __init__(self):
-        self.heaplist = [0]
-        self.countsize = 0
+        if len(num1) == 0 or len(num2) == 0:
+            return "0"
+        digits, product, sum_ = [0] * (len(num2) + len(num1)), 0, 0
+        for i in reversed(range(len(num1))):
+            for j in reversed(range(len(num2))):
+                p1, p2 = i + j, i + j + 1
+                product = (ord(num1[i]) - ord('0')) * (ord(num2[j]) - ord('0'))
+                sum_ = product + digits[p2]
+                digits[p1] += sum_ // 10
+                digits[p2] = sum_ % 10
+        res = []
+        for digit in digits:
+            if not (len(res) == 0 and digit == 0):
+                res.append(digit)
+        return ''.join(map(str, res))
 
 
 if __name__ == "__main__":
     # li = [54, 26, 93, 17, 77, 31, 44, 55, 20]
-    s1 = "sea"
-    s2 = "eat"
-    sol = Solution()
-    print(sol.minimumDeleteSum(s1, s2))
     # print(li)
     # quick_sort(li, 0, len(li)-1)
+    sol = Solution()
+    num1 = "2"
+    num2 = "3"
+    print(sol.multiply(num1, num2))

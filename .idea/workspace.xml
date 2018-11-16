@@ -2,31 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ffc31ca-4c0d-4cf2-8f52-958655b93676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/BSTIterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/KthLargest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/containsNearbyAlmostDuplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/deleteNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/inorderSuccessor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/insertIntoBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/isBalanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/isValidBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/lowestCommonAncestor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/searchBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinarySearchTree/sortedArrayToBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/buildTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/buildTreeII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/connect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/connectII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/countUnivalSubtrees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/hasPathSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/inorderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/isSymmetric.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/levelOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/lowestCommonAncestor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/maxDepth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/postorderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/preorderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/BinaryTree/serialize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +15,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode$autocomplete_System.coverage" NAME="autocomplete_System Coverage Results" MODIFIED="1538203203082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Trie" />
-    <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1539390418419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/leetcode$03__2.coverage" NAME="03-装饰器-2 Coverage Results" MODIFIED="1541048677554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/python_learning/2第二章核心编程/第1节 python高级编程s/02.python高级2-生成器、闭包、装饰器/源码/02-装饰器" />
     <SUITE FILE_PATH="coverage/leetcode$isHappy.coverage" NAME="isHappy Coverage Results" MODIFIED="1539393382769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/HashTable" />
+    <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1539667016244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/leetcode$implement_trie.coverage" NAME="implement_trie Coverage Results" MODIFIED="1538198604251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Trie" />
     <SUITE FILE_PATH="coverage/leetcode$implement_trie2.coverage" NAME="implement_trie2 Coverage Results" MODIFIED="1538200616353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Trie" />
+    <SUITE FILE_PATH="coverage/leetcode$sklearnExample.coverage" NAME="sklearnExample Coverage Results" MODIFIED="1539668420464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/(12)SVM/(补充材料2)SVM的Python程序代码" />
+    <SUITE FILE_PATH="coverage/leetcode$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1542354326139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -59,39 +41,40 @@
     <session id="2038803054">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="167" />
+          <entry key="py" value="174" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="167" />
+          <entry key="Python" value="174" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="82" />
-          <entry key="dummy" value="22" />
-          <entry key="py" value="11287" />
-          <entry key="txt" value="102" />
+          <entry key="Python Console" value="653" />
+          <entry key="dummy" value="38" />
+          <entry key="py" value="14955" />
+          <entry key="txt" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="124" />
-          <entry key="Python" value="11369" />
+          <entry key="PLAIN_TEXT" value="164" />
+          <entry key="Python" value="15608" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -101,46 +84,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/BinarySearchTree/KthLargest.py">
+        <entry file="file://$PROJECT_DIR$/Python/tree_practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/BinarySearchTree/lowestCommonAncestor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/BinarySearchTree/containsNearbyAlmostDuplicate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/BinarySearchTree/isBalanced.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+            <state relative-caret-position="871">
+              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+              <folding>
+                <marker date="1539668330967" expanded="true" signature="235:240" ph="..." />
+                <marker date="1539668330967" expanded="true" signature="367:372" ph="..." />
+                <marker date="1539668330967" expanded="true" signature="1806:2041" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python/BinarySearchTree/sortedArrayToBST.py">
+        <entry file="file://$PROJECT_DIR$/Python/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="641">
+              <caret line="80" selection-start-line="80" selection-end-line="94" selection-end-column="37" />
+              <folding>
+                <marker date="1542354326107" expanded="true" signature="1618:2410" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,12 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python/N-aryTree/serialize.py" />
-        <option value="$PROJECT_DIR$/Python/HashTable/MyHashSet.py" />
-        <option value="$PROJECT_DIR$/Python/HashTable/MyHashMap.py" />
-        <option value="$PROJECT_DIR$/Python/test.py" />
-        <option value="$PROJECT_DIR$/Python/HashTable/singleNumber.py" />
-        <option value="$PROJECT_DIR$/Python/HashTable/containsDuplicate.py" />
         <option value="$PROJECT_DIR$/Python/HashTable/intersection.py" />
         <option value="$PROJECT_DIR$/Python/HashTable/isHappy.py" />
         <option value="$PROJECT_DIR$/Python/HashTable/twoSum.py" />
@@ -216,6 +174,12 @@
         <option value="$PROJECT_DIR$/Python/BinarySearchTree/containsNearbyAlmostDuplicate.py" />
         <option value="$PROJECT_DIR$/Python/BinarySearchTree/isBalanced.py" />
         <option value="$PROJECT_DIR$/Python/BinarySearchTree/sortedArrayToBST.py" />
+        <option value="$PROJECT_DIR$/Python/LinkedList/addTwoNumbers.py" />
+        <option value="$PROJECT_DIR$/Python/tree_practice.py" />
+        <option value="$USER_HOME$/Downloads/(12)SVM/(补充材料2)SVM的Python程序代码/sklearnExample.py" />
+        <option value="$USER_HOME$/Downloads/python_learning/2第二章核心编程/第1节 python高级编程s/02.python高级2-生成器、闭包、装饰器/源码/02-装饰器/03-装饰器-2.py" />
+        <option value="$PROJECT_DIR$/Python/322.coin_change.py" />
+        <option value="$PROJECT_DIR$/Python/test.py" />
       </list>
     </option>
   </component>
@@ -232,8 +196,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="3360" />
-    <option name="height" value="1890" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -253,10 +217,26 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="leetcode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Python" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,11 +249,16 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,7 +266,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -295,8 +280,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.isHappy">
-    <configuration name="autocomplete_System" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="03-装饰器-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,56 +289,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Trie" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/python_learning/2第二章核心编程/第1节 python高级编程s/02.python高级2-生成器、闭包、装饰器/源码/02-装饰器" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Trie/autocomplete_System.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="implement_trie" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Trie" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Trie/implement_trie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="implement_trie2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Trie" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Trie/implement_trie.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/python_learning/2第二章核心编程/第1节 python高级编程s/02.python高级2-生成器、闭包、装饰器/源码/02-装饰器/03-装饰器-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,7 +325,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sklearnExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/(12)SVM/(补充材料2)SVM的Python程序代码" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/(12)SVM/(补充材料2)SVM的Python程序代码/sklearnExample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -406,20 +369,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/tree_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.implement_trie" />
-      <item itemvalue="Python.implement_trie2" />
-      <item itemvalue="Python.autocomplete_System" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.isHappy" />
+      <item itemvalue="Python.sklearnExample" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.03-装饰器-2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.isHappy" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.03-装饰器-2" />
+        <item itemvalue="Python.sklearnExample" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.autocomplete_System" />
-        <item itemvalue="Python.implement_trie2" />
-        <item itemvalue="Python.implement_trie" />
+        <item itemvalue="Python.isHappy" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539393685554</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add BinaryTree and Binary Search Tree">
+      <created>1539410155890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539410155890</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -461,29 +453,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1528" y="0" width="1832" height="1890" extended-state="6" />
+    <frame x="0" y="0" width="3008" height="1692" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27865168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14005412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32875857" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292615" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997779" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868108" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13412352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992514" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292615" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3292615" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32875857" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3292615" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3292615" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32813475" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32875857" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32980654" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.15296252" />
       <window_info anchor="right" id="Database" order="4" weight="0.32980654" />
     </layout>
     <layout-to-restore>
@@ -556,96 +548,13 @@
     <MESSAGE value="update new part --&gt; Trie/Prefix Tree" />
     <MESSAGE value="add head commit" />
     <MESSAGE value="add HashTable and N-array Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="add HashTable and N-array Tree" />
+    <MESSAGE value="add BinaryTree and Binary Search Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="add BinaryTree and Binary Search Tree" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python/test.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python/test.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python/test.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python/test.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python/test.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <marker date="1539393683356" expanded="true" signature="262:267" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/HashTable/containsDuplicate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/HashTable/singleNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/HashTable/intersection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/HashTable/MyHashMap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/HashTable/MyHashSet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/HashTable/isHappy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -951,6 +860,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/LinkedList/addTwoNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/(12)SVM/(补充材料2)SVM的Python程序代码/sklearnExample.py" />
+    <entry file="file://$PROJECT_DIR$/../machine-learning-homework/homework5/homework5.py" />
+    <entry file="file://$USER_HOME$/Downloads/python_learning/2第二章核心编程/第1节 python高级编程s/02.python高级2-生成器、闭包、装饰器/源码/02-装饰器/03-装饰器-2.py" />
+    <entry file="file://$PROJECT_DIR$/Python/322.coin_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/tree_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="871">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <marker date="1539668330967" expanded="true" signature="235:240" ph="..." />
+            <marker date="1539668330967" expanded="true" signature="367:372" ph="..." />
+            <marker date="1539668330967" expanded="true" signature="1806:2041" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="80" selection-start-line="80" selection-end-line="94" selection-end-column="37" />
+          <folding>
+            <marker date="1542354326107" expanded="true" signature="1618:2410" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
