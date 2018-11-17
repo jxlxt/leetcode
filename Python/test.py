@@ -71,28 +71,20 @@ def almost_palindromes(str):
 
     return total
 
+
 class Solution:
-    def multiply(self, num1, num2):
-        """
-        :type num1: str
-        :type num2: str
-        :rtype: str
-        """
-        if len(num1) == 0 or len(num2) == 0:
-            return "0"
-        digits, product, sum_ = [0] * (len(num2) + len(num1)), 0, 0
-        for i in reversed(range(len(num1))):
-            for j in reversed(range(len(num2))):
-                p1, p2 = i + j, i + j + 1
-                product = (ord(num1[i]) - ord('0')) * (ord(num2[j]) - ord('0'))
-                sum_ = product + digits[p2]
-                digits[p1] += sum_ // 10
-                digits[p2] = sum_ % 10
-        res = []
-        for digit in digits:
-            if not (len(res) == 0 and digit == 0):
-                res.append(digit)
-        return ''.join(map(str, res))
+    def sortColors(self, nums):
+        i = j = 0
+        for k in range(len(nums)):
+            v = nums[k]
+            nums[k] = 2
+            if v < 2:
+                nums[j] = 1
+                j += 1
+            if v == 0:
+                nums[i] = 0
+                i += 1
+        return nums
 
 
 if __name__ == "__main__":
@@ -100,6 +92,5 @@ if __name__ == "__main__":
     # print(li)
     # quick_sort(li, 0, len(li)-1)
     sol = Solution()
-    num1 = "2"
-    num2 = "3"
-    print(sol.multiply(num1, num2))
+    nums = [2, 1, 0]
+    print(sol.sortColors(nums))
