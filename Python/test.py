@@ -73,18 +73,20 @@ def almost_palindromes(str):
 
 
 class Solution:
-    def sortColors(self, nums):
-        i = j = 0
-        for k in range(len(nums)):
-            v = nums[k]
-            nums[k] = 2
-            if v < 2:
-                nums[j] = 1
-                j += 1
-            if v == 0:
-                nums[i] = 0
-                i += 1
-        return nums
+    def validPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        left, right = 0, len(s) - 1
+        while left < right:
+            if s[left] != s[right]:
+                one, two = s[left:right], s[left + 1:right + 1]
+                return one == one[::-1] or two == two[::-1]
+            left, right = left + 1, right - 1
+        return True
+
+
 
 
 if __name__ == "__main__":
@@ -92,5 +94,7 @@ if __name__ == "__main__":
     # print(li)
     # quick_sort(li, 0, len(li)-1)
     sol = Solution()
-    nums = [2, 1, 0]
-    print(sol.sortColors(nums))
+    s = "aguokepatgbnvfqmgmlcupuufxoohdfpgjdmysgvhmvffcnqxjjxqncffvmhvgsymdjgpfdhooxfuupuculmgmqfvnbgtapekouga"
+    left, right = 0, len(s) - 1
+    print(s[left:right])
+    print(s[left+1:right+1])
