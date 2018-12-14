@@ -72,17 +72,26 @@ def almost_palindromes(str):
     return total
 
 
+def printRect(X, Y, n):
+    # find Xmax and Xmin
+    Xmax = max(X)
+    Xmin = min(X)
+
+    # find Ymax and Ymin
+    Ymax = max(Y)
+    Ymin = min(Y)
+
+    # print all four coordinates
+    print("{", Xmin, ", ", Ymin, "}", sep="")
+    print("{", Xmin, ", ", Ymax, "}", sep="")
+    print("{", Xmax, ", ", Ymax, "}", sep="")
+    print("{", Xmax, ", ", Ymin, "}", sep="")
 
 
-
-
-
-if __name__ == "__main__":
-    # li = [54, 26, 93, 17, 77, 31, 44, 55, 20]
-    # print(li)
-    # quick_sort(li, 0, len(li)-1)
-    sol = Solution()
-    s = "aguokepatgbnvfqmgmlcupuufxoohdfpgjdmysgvhmvffcnqxjjxqncffvmhvgsymdjgpfdhooxfuupuculmgmqfvnbgtapekouga"
-    left, right = 0, len(s) - 1
-    print(s[left:right])
-    print(s[left+1:right+1])
+# driver program
+X = [4, 3, 6, 1, -1, 12]
+Y = [4, 1, 10, 3, 7, -1]
+n = len(X)
+printRect(X, Y, n)
+# This code is contributed by
+# Smitha Dinesh Semwal
