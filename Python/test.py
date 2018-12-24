@@ -8,7 +8,6 @@
 
 
 
-
 # class Solution:
 #     def longestPalindrome(self, s):
 #         """
@@ -86,6 +85,7 @@ def printRect(X, Y, n):
     print("{", Xmin, ", ", Ymax, "}", sep="")
     print("{", Xmax, ", ", Ymax, "}", sep="")
     print("{", Xmax, ", ", Ymin, "}", sep="")
+
 
 
 # driver program
