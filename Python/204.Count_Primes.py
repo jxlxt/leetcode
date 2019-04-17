@@ -1,13 +1,17 @@
-class Solution:
-    def countPrimes(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        if n < 2: return 0
-        Prime = [1] * n
-        Prime[0] = Prime[1] = 0
-        for i in range(2, int(n**0.5)+1):
-            if Prime[i] == 1:
-                Prime[i*i:n:i] = [0] * len(Prime[i*i:n:i])
-        return sum(Prime)
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        int[] count = new int[26];
+        for (int i = 0; i < s.length(); i++){
+            count[s.charAt(i) - 'a']++;
+        }
+        for (int j = 0; j < t.length(); j++){
+            count[t.charAt(j) - 'a']--;
+        }
+        for (int i: count){
+            if (i != 0){
+                return false;
+            }
+        }
+        return true;
+    }
+}
